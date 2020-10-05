@@ -1,0 +1,60 @@
+
+.jumbotron{ 
+    background-image: url('https://apod.nasa.gov/apod/image/2010/SDO_2020Oct2_1024_0171.jpg');
+    height: 2500px;
+    text-align: center;
+    /* align-content: center; */
+    
+
+}
+
+.fixed-top{
+    text-align: center;
+}
+
+.display-4 {
+    font-size: 150px;
+    margin-top: 15%;
+    color: wheat;
+
+}
+
+
+.lead {
+    font-size: 75px;
+    color: wheat;
+}
+
+.text-muted {
+    font-size: 40px;
+}
+
+.randomizer {
+    background-color: royalblue;
+    color: white;
+    height: 50px;
+    font-size: x-large;
+}
+
+.cardRight {
+    height: 750px;
+}
+
+.cardMiddle {
+    height: 750px;
+}
+
+.cardLeft {
+    height: 750px;
+}
+
+.card {
+    background-color: transparent;
+     font-size: x-large;
+    color: wheat;
+}
+
+.card-title {
+    font-weight: bolder;
+    font-size: xx-large;
+}
