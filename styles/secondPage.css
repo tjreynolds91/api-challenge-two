@@ -1,0 +1,14 @@
+.jumbotron {
+    text-align: center;
+    background-color: lightsalmon;
+}
+
+.jumbotronOne {
+    background-image: url(https://apod.nasa.gov/apod/image/2010/m42HSO_gonzalez_960.jpg);
+    height: 1270px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    
+
+}

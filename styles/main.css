@@ -1,6 +1,8 @@
 
 .jumbotron{ 
     background-image: url('https://apod.nasa.gov/apod/image/2010/SDO_2020Oct2_1024_0171.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 2500px;
     text-align: center;
     /* align-content: center; */
