@@ -1,19 +1,20 @@
 
 body{
-    background-color: black;
+    background-image: url('https://apod.nasa.gov/apod/image/2010/SDO_2020Oct2_1024_0171.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background: center */
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    /* align-content: center; */
+    
 
 }
 
 .jumbotron{ 
-    background-image: url('https://apod.nasa.gov/apod/image/2010/SDO_2020Oct2_1024_0171.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background: center
-    width: 100%;
-    height: 2500px;
-    text-align: center;
-    /* align-content: center; */
-    
+   background-color: transparent;
+   
 
 }
 
@@ -39,28 +40,28 @@ body{
 }
 
 .randomizer {
-    background-color: royalblue;
-    color: white;
-    height: 50px;
-    font-size: x-large;
+    
+    
 }
 
 .cardRight {
-    height: 750px;
+    height: 60%;
 }
 
 .cardMiddle {
-    height: 750px;
+    height: 60%;
 }
 
 .cardLeft {
-    height: 750px;
+    height: 60%;
 }
 
 .card {
     background-color: transparent;
      font-size: x-large;
     color: wheat;
+    max-height: 900px;
+    border: none;
 }
 
 .card-title {
@@ -70,5 +71,7 @@ body{
 
 .card-deck {
     width: 99%;
+    height: 900px;
     margin-left: .58%;
+    border: none;
 }    
