@@ -8,6 +8,7 @@ body{
     background-image: url('https://apod.nasa.gov/apod/image/2010/SDO_2020Oct2_1024_0171.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100%;
     height: 2500px;
     text-align: center;
     /* align-content: center; */
@@ -66,3 +67,7 @@ body{
     font-size: xx-large;
 }
 
+.card-deck {
+    width: 99%;
+    margin-left: .5%;
+}    
